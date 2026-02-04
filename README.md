@@ -30,8 +30,10 @@ There are a few ways to interact with Lean, of which we list three.
 ### Online Lean usage
 
 For the first lecture you don't necessarily need a local Lean installation. Instead,
-you can use the [online Lean editor](https://live.lean-lang.org/). Beware that your progress is not saved there,
-so make sure that you copy your code from time to time to a local file.
+you can use the [online Lean editor](https://live.lean-lang.org/).
+To work on a snippet from MiL, type `import Mathlib` at the top and paste the snippet below.
+Beware that your progress is not saved there, so make sure that you copy your code from time to time
+to a local file.
 
 ### Local installation
 
