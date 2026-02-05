@@ -94,5 +94,6 @@ Finding the right lemmas to use is hard. These websites can help you find what y
 ### Connecting with the community
 
 - [Zulip chat](https://leanprover.zulipchat.com/): A discussion forum for Lean users. If you have any
-  questions about Lean, feel free to ask them there.
+  questions about Lean, feel free to ask them there. After signing up, to be added to the course channel,
+  please send a direct message to Jelle Wemmenhove (you can search in the `Direct Messages` box).
 - [Loki](https://formal-methods.nl/loki): Weekly formalisation meetup in Utrecht.
