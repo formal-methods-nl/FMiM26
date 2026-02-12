@@ -10,11 +10,11 @@ please provide partial progress and explain using comments on what you are stuck
 To get the latest exercises,
 update the repository. You can do this in VS code by clicking on the `Source Control` tab on the left:
 
-![source control tab](images/vscode-pull.png)
+![source control tab](/images/vscode-pull.png)
 
 Then click on the three small buttons on the top right and select `Pull`:
 
-![pull](images/vscode-pull-selected.png)
+![pull](/images/vscode-pull-selected.png)
 
 Alternatively, you can download the corresponding exercise sheet from the
 [ELO](https://elo.mastermath.nl/course/view.php?id=1251#section-6) page and copy it into the `Homework` folder.
