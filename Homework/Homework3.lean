@@ -57,6 +57,8 @@ The length of a chain is defined to be the number of `<`s in the chain, i.e.
 the singleton list `{x}` has length `0`.
 -/
 def Chain.length {x y : α} : Chain x y → ℕ :=
+  -- Hint: if you want to use the pattern matching notation, you have to remove the `:=`
+  -- from the previous line
   sorry
 
 /-
