@@ -80,6 +80,19 @@ amount of time of inactivity.
 
 To restart a previous workspace, visit <https://github.com/codespaces>.
 
+## Project phase
+
+The last few weeks of the course will focus on group projects. During these projects there will be
+no more lectures or homework assignments, so this repository is no longer necessary.
+
+We strongly recommend to start a separate Lean project for the group work, because it will
+give you access to the latest version of mathlib. Not only does it contain many new powerful
+tactics (try `grind`!), also the common searching tools yield results based on the latest version.
+
+You can create a new project inside VS Code by clicking on the forall symbol and selecting
+`New Project > Create Project Using Mathlib ...`:
+![new project dialog](images/vscode-new-project.png)
+
 ## Useful links
 
 ### Searching the library
